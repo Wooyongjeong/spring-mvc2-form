@@ -17,7 +17,7 @@ public class Item {
     private ItemType itemType; //상품 종류
     private String deliveryCode; //배송 방식
 
-   public Item() {
+    public Item() {
     }
 
     public Item(String itemName, Integer price, Integer quantity) {
